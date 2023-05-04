@@ -1,0 +1,58 @@
+#main {
+    background-color: rgb(187, 134, 69);
+    
+    margin: auto;
+    margin-top: 230px;
+    height: 500px;
+    width: 80%;
+    
+    padding: 10px;
+}
+
+
+
+#welcome-section {
+    text-align: center;
+}
+
+
+#description {
+    display: flex;
+}
+
+#img {
+    height: 50%;
+    width: 50%;
+    
+    
+}
+
+#img2 {
+    height: 90%;
+    width: 90%;
+    margin: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    display: block;
+}
+
+#intro {
+        height: 50%;
+    width: 50%;
+   
+}
+
+#intro2 {
+    height: 90%;
+    width: 90%;
+
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+
+
+}
